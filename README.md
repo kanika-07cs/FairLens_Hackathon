@@ -100,13 +100,3 @@ This project promotes:
 - Transparent model evaluation
 - Responsible deployment of AI systems
 
-## Future Improvements
-
-- Multiple model comparison
-- Advanced fairness metrics
-- Explainable AI integration (SHAP / LIME)
-- Automated bias mitigation techniques
-- Exportable fairness reports
-
-## License
-This project is open-source and available under the MIT License.
